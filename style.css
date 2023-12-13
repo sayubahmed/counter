@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.me{
+    width: 200px;
+    height: 20px;
+    border: 2px solid;
+    margin: 100px auto; 
+text-align: center;
+}
+.my{
+    width: 200px;
+    margin: 100px auto;
+    justify-content:space-evenly;
+ text-align: center;
+
+}
+.btn1{
+ width: 30px;
+ height: 20px;
+ background-color: red;
+ box-shadow: 1px 1px;
+ 
+}
+.btn2{
+
+height:20px;
+background-color: rgb(245, 194, 194);
+box-shadow: 1px 1px;
+
+}
+.btn3{
+width: 30px;
+background-color: red;
+box-shadow: 1px 1px;
+
+}
+.a{
+    width: 280px;
+    height: 300px;
+    border: 2px solid;
+    margin: 100px auto;
+ 
+}
+.c{
+    font-family: sans-serif;
+    word-spacing: 0cap;
+
+}
+
